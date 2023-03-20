@@ -1,0 +1,3 @@
+API:-API is a acronomy for Application Programming Interface,which is a s/w intermediary that allows two application to talk to each other . Each time you an app like facebook send an instant message,or check the weather on your phone,you're using an API.
+
+API is a service which allows us to a request a data.

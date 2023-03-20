@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name": "Chanchal Verma",
+        "username": "chanchal25",
+        "email": "chanchal25@gmail.com",
+        "address": {
+            "street":"Tranget girls hostel",
+            "suite":"Flat no 19",
+            "city":"Jagdalpur",
+            "zipcode":494001
+        },
+        "phone":"+91 9685311275",
+        "website":"https://chanchal-verma-portfolio.netlify.app/",
+        "company":{
+            "name":"Function-up",
+            "city":"Banglore"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Nisha Sahu",
+        "username": "nisha12",
+        "email": "nisha@gmail.com",
+        "address": {
+            "street":"Near water Tank",
+            "suite":"Flat no 19",
+            "city":"Raigadh",
+            "zipcode":494002
+        },
+        "phone":"+91 9685312356",
+        "website":"https://nisha-sahu-portfolio.netlify.app/",
+        "company":{
+            "name":"Function-up",
+            "city":"Banglore"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Afreen Akhtar",
+        "username": "afreen12",
+        "email": "afreen@gmail.com",
+        "address": {
+            "street":"Kota",
+            "suite":"Flat no 20",
+            "city":"Raipur",
+            "zipcode":494003
+        },
+        "phone":"+91 9685785696",
+        "website":"https://afreen-akhtar-portfolio.netlify.app/",
+        "company":{
+            "name":"Function-up",
+            "city":"Banglore"
+        }
+    }
+]
+ 
